@@ -1,6 +1,29 @@
-heroes[
-  {'id':007,'name':'James Bond'},
-{'id':89,'name':'Mimicho'},
-{'id':12,'name':'Alexa'},
-{'id':129,'name':'Blind Bandit'}
+[{
+		"name": "James Bond",
+		"id": "007"
+	}, {
+		"name": "John wick",
+		"id": "008"
+	},
+	{
+		"name": "Alexa",
+		"id": "009"
+	}, {
+		"name": "Sinichho",
+		"id": "001"
+	},
+	{
+		"name": "Jaimiko chi",
+		"id": "017"
+	}, {
+		"name": "Shaihto",
+		"id": "018"
+	},
+	{
+		"name": "Ruth",
+		"id": "019"
+	}, {
+		"name": "Sinichho",
+		"id": "002"
+	}
 ]
